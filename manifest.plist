@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/RestroomMap_Test/raw/master/RestroomMap.ipa</string>
+					<string>https://github.com/kxbsny/RestroomMap_Test/raw/main/TabBar%20Test.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -47,7 +47,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/RestroomMap_Test/raw/master/RestroomMap-BC107C1B-EAC4-4E27-8BA0-FFD77737C463.ipa</string>
+					<string>https://github.com/kxbsny/RestroomMap_Test/raw/main/TabBar%20Test-BC107C1B-EAC4-4E27-8BA0-FFD77737C463.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
